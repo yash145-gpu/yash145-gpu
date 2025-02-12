@@ -26,4 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash145-gpu&show_icons=true&locale=en&layout=compact" alt="yash145-gpu" /></p>    
 </br></br></br></br></br>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yash145-gpu&show_icons=true&locale=en" alt="yash145-gpu"/></p>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash145-gpu&" alt="yash145-gpu" /></p>
