@@ -22,7 +22,7 @@
   - <a href="https://www.linkedin.com/in/yash-shinde-at4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-shinde-at4/" height="30" width="40" /></a>
 </p>
 </br> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash145gpu&label=Visitor%20count&color=0e75b6&style=flat" alt="yash145gpu" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash145HXgpu&label=Visitor%20count&color=0e75b6&style=flat" alt="yash145gpu" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash145-gpu&show_icons=true&locale=en&layout=compact" alt="yash145-gpu" /></p>    
 </br></br></br></br></br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yash145-gpu&show_icons=true&locale=en" alt="yash145-gpu"/></p>
