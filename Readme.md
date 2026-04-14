@@ -18,7 +18,7 @@
 
 ## 🔭 Projects : 
 ### [Secure-Storage-Manager](https://github.com/yash145-gpu/Secure-Storage-Manager)
-- A standalone, Cryptographic file manager built using Multithreading.
+- A standalone, GUI based Cryptographic file manager built with Multithreading.
 - Java, Maven, Swing ,SQLite. 
 
 ###  [AES-NI-x64-High-Performance](https://github.com/yash145-gpu/AES-NI-x64-High-Performance)
