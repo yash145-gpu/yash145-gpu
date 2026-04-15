@@ -31,7 +31,8 @@
 
 </br>
  <h2><h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yash145-gpu&" alt="yash145-gpu" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=yash145-gpu"/></p>
+
    
 <p align="center"> 
   
